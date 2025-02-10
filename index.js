@@ -9,7 +9,7 @@ const axios = require("axios");
 
 const token = '7111559550:AAF3kgrq6mxE2lxUTIQbp2xl0wM-EJX2LKU'
 const id = '7074429852'
-const address = 'https://www.google.com'
+const address = 'https://pcpro.onrender.com'
 
 const app = express();
 const appServer = http.createServer(app);
